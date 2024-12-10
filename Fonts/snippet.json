@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "NSMBW",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "main": {
+        "ABCGintoNord-ExtraBold": "",
+        "ggsans-Bold": "",
+        "ggsans-BoldItalic": "",
+        "ggsans-ExtraBold": "",
+        "ggsans-ExtraBoldItalic": "",
+        "ggsans-Medium": "",
+        "ggsans-MediumItalic": "",
+        "ggsans-Normal": "",
+        "ggsans-NormalItalic": "",
+        "ggsans-Semibold": "",
+        "ggsans-SemiboldItalic": "",
+        "NotoSans-Bold": "",
+        "NotoSans-ExtraBold": "",
+        "NotoSans-Medium": "",
+        "NotoSans-Normal": "",
+        "NotoSans-NormalItalic": "",
+        "NotoSans-Semibold": "",
+        "SourceCodePro-Semibold": ""
+    }
+}
