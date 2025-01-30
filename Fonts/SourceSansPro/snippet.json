@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "SourceSansPro",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Black.otf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Bold.otf",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-BoldIt.otf",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Black.otf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-BlackIt.otf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Light.otf",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-LightIt.otf",
+        "ggsans-Normal": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Light.otf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-LightIt.otf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Semibold.otf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-SemiboldIt.otf",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Bold.otf",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Black.otf",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Regular.otf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Light.otf",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-LightIt.otf",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Semibold.otf",
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Sroryi/Bunny-Stuff/main/Fonts/SourceSansPro/SourceSansPro-Semibold.otf"
+    }
+}
